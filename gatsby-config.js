@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `RAAM 2020!!`,
+    description: `Race Across America is the toughest endurance cycling race in the world!`,
+    author: `Jamie Hewitt`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
